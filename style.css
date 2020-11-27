@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+
+p {
+    /*color: #0000FF;*/
+    font-size: 12px;
+    text-decoration: line-through;
+}
+
+h1 {
+  color: #0a7828;
+  background-color: #888888;
+  text-transform: uppercase;
+  margin: 20px;
+  padding: 40px;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: red;
+} */
+
+h2 {
+  text-decoration: underline;
+}
+
+h3, h4, h5, h6 {
+    color: #0d0404;
+    background-color: #888888;
+}
+#intro {
+  border: 1px solid black;
+  }
+
+.spotlight {
+  background-color: #FEFE22;
+}
+
+H2, P {
+  color: green;
+}
+
+/* Left off after font-family changes in lab 12 / Part 2. Finish Margins/Padding, Chrome Inspector, Classes, IDs, and Group Selectors before Saturday! */
